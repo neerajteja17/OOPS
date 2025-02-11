@@ -1,5 +1,3 @@
-# OOPS
-
 # C++ OOP Concepts with Examples
 This repository contains C++ programs demonstrating the four main Object-Oriented Programming (OOP) concepts: Encapsulation, Inheritance, Polymorphism, and Abstraction.
 
