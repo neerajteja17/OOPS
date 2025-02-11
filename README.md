@@ -3,8 +3,11 @@ This repository contains C++ programs demonstrating the four main Object-Oriente
 
 # 📌 Concepts Covered
 Encapsulation - Restricting direct access to data and providing controlled access via methods.
+
 Inheritance - Reusing code by deriving new classes from existing ones.
+
 Polymorphism - Methods that behave differently based on the object.
+
 Abstraction - Hiding implementation details and providing only necessary functionalities.
 📂 Code Examples
 
